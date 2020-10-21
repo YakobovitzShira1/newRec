@@ -196,6 +196,26 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "algorithm/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/algorithm.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/algorithm.dll": {}
+        }
+      },
+      "ReadAndWriteData/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/ReadAndWriteData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ReadAndWriteData.dll": {}
+        }
       }
     }
   },
@@ -656,11 +676,23 @@
         "netstandard.library.2.0.0.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "algorithm/1.0.0": {
+      "type": "project",
+      "path": "../algorithm/algorithm.csproj",
+      "msbuildProject": "../algorithm/algorithm.csproj"
+    },
+    "ReadAndWriteData/1.0.0": {
+      "type": "project",
+      "path": "../ReadAndWriteData/ReadAndWriteData.csproj",
+      "msbuildProject": "../ReadAndWriteData/ReadAndWriteData.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
-      "Microsoft.NETCore.App >= 2.0.0"
+      "Microsoft.NETCore.App >= 2.0.0",
+      "ReadAndWriteData >= 1.0.0",
+      "algorithm >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -692,7 +724,14 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Software\\B\\project\\project\\algorithm\\algorithm.csproj": {
+              "projectPath": "C:\\Software\\B\\project\\project\\algorithm\\algorithm.csproj"
+            },
+            "C:\\Software\\B\\project\\project\\ReadAndWriteData\\ReadAndWriteData.csproj": {
+              "projectPath": "C:\\Software\\B\\project\\project\\ReadAndWriteData\\ReadAndWriteData.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

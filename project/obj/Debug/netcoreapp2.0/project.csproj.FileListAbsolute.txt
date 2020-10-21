@@ -1,0 +1,16 @@
+C:\Software\B\project\project\project\bin\Debug\netcoreapp2.0\project.deps.json
+C:\Software\B\project\project\project\bin\Debug\netcoreapp2.0\project.runtimeconfig.json
+C:\Software\B\project\project\project\bin\Debug\netcoreapp2.0\project.runtimeconfig.dev.json
+C:\Software\B\project\project\project\bin\Debug\netcoreapp2.0\project.dll
+C:\Software\B\project\project\project\bin\Debug\netcoreapp2.0\project.pdb
+C:\Software\B\project\project\project\bin\Debug\netcoreapp2.0\algorithm.dll
+C:\Software\B\project\project\project\bin\Debug\netcoreapp2.0\ReadAndWriteData.dll
+C:\Software\B\project\project\project\bin\Debug\netcoreapp2.0\algorithm.pdb
+C:\Software\B\project\project\project\bin\Debug\netcoreapp2.0\ReadAndWriteData.pdb
+C:\Software\B\project\project\project\obj\Debug\netcoreapp2.0\project.csprojAssemblyReference.cache
+C:\Software\B\project\project\project\obj\Debug\netcoreapp2.0\project.csproj.CoreCompileInputs.cache
+C:\Software\B\project\project\project\obj\Debug\netcoreapp2.0\project.AssemblyInfoInputs.cache
+C:\Software\B\project\project\project\obj\Debug\netcoreapp2.0\project.AssemblyInfo.cs
+C:\Software\B\project\project\project\obj\Debug\netcoreapp2.0\project.csproj.CopyComplete
+C:\Software\B\project\project\project\obj\Debug\netcoreapp2.0\project.dll
+C:\Software\B\project\project\project\obj\Debug\netcoreapp2.0\project.pdb

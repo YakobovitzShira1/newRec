@@ -1,0 +1,9 @@
+C:\Software\B\project\project\ReadAndWriteData\bin\Debug\netstandard2.0\ReadAndWriteData.deps.json
+C:\Software\B\project\project\ReadAndWriteData\bin\Debug\netstandard2.0\ReadAndWriteData.dll
+C:\Software\B\project\project\ReadAndWriteData\bin\Debug\netstandard2.0\ReadAndWriteData.pdb
+C:\Software\B\project\project\ReadAndWriteData\obj\Debug\netstandard2.0\ReadAndWriteData.csprojAssemblyReference.cache
+C:\Software\B\project\project\ReadAndWriteData\obj\Debug\netstandard2.0\ReadAndWriteData.csproj.CoreCompileInputs.cache
+C:\Software\B\project\project\ReadAndWriteData\obj\Debug\netstandard2.0\ReadAndWriteData.AssemblyInfoInputs.cache
+C:\Software\B\project\project\ReadAndWriteData\obj\Debug\netstandard2.0\ReadAndWriteData.AssemblyInfo.cs
+C:\Software\B\project\project\ReadAndWriteData\obj\Debug\netstandard2.0\ReadAndWriteData.dll
+C:\Software\B\project\project\ReadAndWriteData\obj\Debug\netstandard2.0\ReadAndWriteData.pdb

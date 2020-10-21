@@ -1,0 +1,9 @@
+C:\Software\B\project\project\algorithm\bin\Debug\netstandard2.0\algorithm.deps.json
+C:\Software\B\project\project\algorithm\bin\Debug\netstandard2.0\algorithm.dll
+C:\Software\B\project\project\algorithm\bin\Debug\netstandard2.0\algorithm.pdb
+C:\Software\B\project\project\algorithm\obj\Debug\netstandard2.0\algorithm.csprojAssemblyReference.cache
+C:\Software\B\project\project\algorithm\obj\Debug\netstandard2.0\algorithm.csproj.CoreCompileInputs.cache
+C:\Software\B\project\project\algorithm\obj\Debug\netstandard2.0\algorithm.AssemblyInfoInputs.cache
+C:\Software\B\project\project\algorithm\obj\Debug\netstandard2.0\algorithm.AssemblyInfo.cs
+C:\Software\B\project\project\algorithm\obj\Debug\netstandard2.0\algorithm.dll
+C:\Software\B\project\project\algorithm\obj\Debug\netstandard2.0\algorithm.pdb
